@@ -1,7 +1,8 @@
 ### Hi, I'm Gerardo 👋
 - 📍Austin, TX
 - 😎 Pronounced as "He-RAHR-do"
-- 👨🏻‍💻 I’m currently building [Managerly.app](https://managerly.app)
+- 👨🏻‍💻 I’m currently building [Swoovy.com](https://www.swoovy.com/)
+- 🚀 I launched an OKR slack app called [Managerly.app](https://managerly.app)
 - 📫 Connect with me in [LinkedIn](https://www.linkedin.com/in/gvzqz)
 
 Programming Languages
